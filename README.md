@@ -1,0 +1,2 @@
+# Coleco-Retroarch-function-Quest
+ Hello, I must first say I am rather new at this SNES hakchi CE retroarch getting games to work. I’m not sure if you guys found a successful way to make colecovision games play. I know Bluemsx doesn’t work, with game boy advance VBA-m I get it to semi load with a white screen. I’m going to see if the coolcv.pi method works. As far as coleco bios, I found very few .bin usually the have something ver long before the period so I just rename it to coleco.bin put in the hmod bios installer but no dice. Any advice?
